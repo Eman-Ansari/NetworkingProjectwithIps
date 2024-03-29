@@ -1,5 +1,5 @@
 ### School Networking System
-<img src="https://github.com/Eman-Ansari/NetworkingProjectwithIps/assets/142986181/b8003746-20f5-46f5-bbd9-836c9f1c6944" width=400 height=300>
+<img src="https://github.com/Eman-Ansari/NetworkingProjectwithIps/assets/142986181/b8003746-20f5-46f5-bbd9-836c9f1c6944" width=600 height=300>
 
 
 
