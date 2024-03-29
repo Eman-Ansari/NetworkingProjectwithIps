@@ -1,4 +1,5 @@
 ### School Networking System
+<img src="https://github.com/Eman-Ansari/NetworkingProjectwithIps/assets/142986181/b8003746-20f5-46f5-bbd9-836c9f1c6944" width=400 height=300>
 
 
 
@@ -21,10 +22,12 @@ Servers: These are computers that store data and provide services to other devic
 Server-PT (DNS Server)
 Server-PT (Web Server)
 
-# Routers: These devices connect different networks together. They route data packets from one network to another. In this diagram, there are five routers:
+# Routers: 
+These devices connect different networks together. They route data packets from one network to another. In this diagram, there are five routers:
 Router0, Router1,, Router2, Router3, Router5 (Nazimabad Branch), Router6 (Malir Branch)
 
-# Switches: These devices connect multiple devices to a single network segment. They forward data packets to the appropriate device on the network. In this diagram, there are five switches:
+# Switches: 
+These devices connect multiple devices to a single network segment. They forward data packets to the appropriate device on the network. In this diagram, there are five switches:
 Switch0, Switch1, Switch2, Switch4, Switch5, Subnets
 
 # The network is divided into the following subnets:
